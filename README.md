@@ -1,2 +1,16 @@
-# counter-app
-A simple counter application built with HTML, CSS, and JavaScript that demonstrates DOM manipulation and event handling.
+# DOM Counter App
+
+A simple counter application built using HTML, CSS, and JavaScript.
+
+## Features
+
+- Increase counter
+- Decrease counter
+- Reset counter
+- Dynamic color changes based on value
+
+## Technologies
+
+- HTML
+- CSS
+- JavaScript
