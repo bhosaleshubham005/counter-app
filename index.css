@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 750px;
+    margin: 0;
+}
+
+.card {
+    display: flex;             
+    flex-direction: column;    
+    justify-content: center;   
+    align-items: center;       
+    background-color: aliceblue;
+    width: 500px;
+    height: 250px;
+    padding: 20px;
+    border-radius: 10px;        
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2); 
+}
+
+#counter {
+    font-size: 48px;            
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: darkblue;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#increase {
+    background-color: lightgreen;
+}
+
+#decrease {
+    background-color: lightcoral;
+}
+
+#reset {
+    background-color: lightgray;
+}
